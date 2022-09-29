@@ -3,7 +3,7 @@ body{
 }
 
 .battleground{
-    background-image: url('bg.jpg');
+    background-image: url('bg.png');
     background-size: cover;
     position: relative;
     width: 350px;
